@@ -1,0 +1,5 @@
+name: Tuske
+version: '${project.version}'
+main: lu.kainovaii.tuske.Main
+api-version: 1.19
+authors: [ Tuke_Nuke, KainoVaii ]
